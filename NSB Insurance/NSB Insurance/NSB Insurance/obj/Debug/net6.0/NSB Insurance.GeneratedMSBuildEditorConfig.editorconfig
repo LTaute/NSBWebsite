@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NSB_Insurance
+build_property.RootNamespace = NSB_Insurance
+build_property.ProjectDir = C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/taute/OneDrive/Desktop/Programmeering/Derek/NSB/NSB Insurance/NSB Insurance/NSB Insurance/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taute/OneDrive/Desktop/Programmeering/Derek/NSB/NSB Insurance/NSB Insurance/NSB Insurance/Pages/AboutUs.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXRVcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taute/OneDrive/Desktop/Programmeering/Derek/NSB/NSB Insurance/NSB Insurance/NSB Insurance/Pages/Compliance.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcGxpYW5jZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taute/OneDrive/Desktop/Programmeering/Derek/NSB/NSB Insurance/NSB Insurance/NSB Insurance/Pages/ContactUs.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdFVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taute/OneDrive/Desktop/Programmeering/Derek/NSB/NSB Insurance/NSB Insurance/NSB Insurance/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taute/OneDrive/Desktop/Programmeering/Derek/NSB/NSB Insurance/NSB Insurance/NSB Insurance/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taute/OneDrive/Desktop/Programmeering/Derek/NSB/NSB Insurance/NSB Insurance/NSB Insurance/Pages/MarketingMaterial.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFya2V0aW5nTWF0ZXJpYWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taute/OneDrive/Desktop/Programmeering/Derek/NSB/NSB Insurance/NSB Insurance/NSB Insurance/Pages/MeetTheTeam.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVldFRoZVRlYW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taute/OneDrive/Desktop/Programmeering/Derek/NSB/NSB Insurance/NSB Insurance/NSB Insurance/Pages/OurInsurers.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3VySW5zdXJlcnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taute/OneDrive/Desktop/Programmeering/Derek/NSB/NSB Insurance/NSB Insurance/NSB Insurance/Pages/RequestQuote.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVxdWVzdFF1b3RlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taute/OneDrive/Desktop/Programmeering/Derek/NSB/NSB Insurance/NSB Insurance/NSB Insurance/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taute/OneDrive/Desktop/Programmeering/Derek/NSB/NSB Insurance/NSB Insurance/NSB Insurance/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taute/OneDrive/Desktop/Programmeering/Derek/NSB/NSB Insurance/NSB Insurance/NSB Insurance/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-5lyvhe100p
+
+[C:/Users/taute/OneDrive/Desktop/Programmeering/Derek/NSB/NSB Insurance/NSB Insurance/NSB Insurance/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-afsfhw7l7j
+
+[C:/Users/taute/OneDrive/Desktop/Programmeering/Derek/NSB/NSB Insurance/NSB Insurance/NSB Insurance/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taute/OneDrive/Desktop/Programmeering/Derek/NSB/NSB Insurance/NSB Insurance/NSB Insurance/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/taute/OneDrive/Desktop/Programmeering/Derek/NSB/NSB Insurance/NSB Insurance/NSB Insurance/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
