@@ -1,0 +1,32 @@
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\bin\Debug\net6.0\appsettings.json
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\bin\Debug\net6.0\NSB Insurance.staticwebassets.runtime.json
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\bin\Debug\net6.0\NSB Insurance.exe
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\bin\Debug\net6.0\NSB Insurance.deps.json
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\bin\Debug\net6.0\NSB Insurance.runtimeconfig.json
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\bin\Debug\net6.0\NSB Insurance.dll
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\bin\Debug\net6.0\NSB Insurance.pdb
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\obj\Debug\net6.0\NSB Insurance.csproj.AssemblyReference.cache
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\obj\Debug\net6.0\NSB Insurance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\obj\Debug\net6.0\NSB Insurance.AssemblyInfoInputs.cache
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\obj\Debug\net6.0\NSB Insurance.AssemblyInfo.cs
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\obj\Debug\net6.0\NSB Insurance.csproj.CoreCompileInputs.cache
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\obj\Debug\net6.0\NSB Insurance.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\obj\Debug\net6.0\NSB Insurance.RazorAssemblyInfo.cache
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\obj\Debug\net6.0\NSB Insurance.RazorAssemblyInfo.cs
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\obj\Debug\net6.0\staticwebassets\msbuild.NSB Insurance.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\obj\Debug\net6.0\staticwebassets\msbuild.build.NSB Insurance.props
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NSB Insurance.props
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NSB Insurance.props
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\obj\Debug\net6.0\scopedcss\bundle\NSB Insurance.styles.css
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\obj\Debug\net6.0\scopedcss\projectbundle\NSB Insurance.bundle.scp.css
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\obj\Debug\net6.0\NSB Insurance.dll
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\obj\Debug\net6.0\refint\NSB Insurance.dll
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\obj\Debug\net6.0\NSB Insurance.pdb
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\obj\Debug\net6.0\NSB Insurance.genruntimeconfig.cache
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\obj\Debug\net6.0\ref\NSB Insurance.dll
+C:\Users\taute\OneDrive\Desktop\Programmeering\Derek\NSB\NSB Insurance\NSB Insurance\NSB Insurance\obj\Debug\net6.0\scopedcss\Shared\NavBar.razor.rz.scp.css
