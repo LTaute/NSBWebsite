@@ -57,8 +57,16 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\1st-for-women.png",
+      "PackagePath": "staticwebassets\\img\\1st-for-women.png"
+    },
+    {
       "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\Alna.jpg",
       "PackagePath": "staticwebassets\\img\\Alna.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\Bryte.jpg",
+      "PackagePath": "staticwebassets\\img\\Bryte.jpg"
     },
     {
       "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\Chris.jpg",
@@ -67,6 +75,14 @@
     {
       "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\Darrelle.jpg",
       "PackagePath": "staticwebassets\\img\\Darrelle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\Discovery.png",
+      "PackagePath": "staticwebassets\\img\\Discovery.png"
+    },
+    {
+      "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\Hollard.jpg",
+      "PackagePath": "staticwebassets\\img\\Hollard.jpg"
     },
     {
       "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\Jano.jpg",
@@ -93,6 +109,10 @@
       "PackagePath": "staticwebassets\\img\\NSB flyer-afgetredenes 25 yrs-page-0.jpg"
     },
     {
+      "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\Old-Mutual.jpg",
+      "PackagePath": "staticwebassets\\img\\Old-Mutual.jpg"
+    },
+    {
       "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\Rene.jpg",
       "PackagePath": "staticwebassets\\img\\Rene.jpg"
     },
@@ -105,16 +125,56 @@
       "PackagePath": "staticwebassets\\img\\Team.jpg"
     },
     {
+      "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\Western-Rethink-Insurance.png",
+      "PackagePath": "staticwebassets\\img\\Western-Rethink-Insurance.png"
+    },
+    {
+      "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\absa.png",
+      "PackagePath": "staticwebassets\\img\\absa.png"
+    },
+    {
+      "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\allianz.png",
+      "PackagePath": "staticwebassets\\img\\allianz.png"
+    },
+    {
+      "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\auto&general.png",
+      "PackagePath": "staticwebassets\\img\\auto&general.png"
+    },
+    {
       "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\calendar card.jpg",
       "PackagePath": "staticwebassets\\img\\calendar card.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\centriq-logo.jpeg",
+      "PackagePath": "staticwebassets\\img\\centriq-logo.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\compass-insure.jpg",
+      "PackagePath": "staticwebassets\\img\\compass-insure.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\guard-risk.png",
+      "PackagePath": "staticwebassets\\img\\guard-risk.png"
     },
     {
       "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\index-banner.jpg",
       "PackagePath": "staticwebassets\\img\\index-banner.jpg"
     },
     {
+      "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\king-price.png",
+      "PackagePath": "staticwebassets\\img\\king-price.png"
+    },
+    {
+      "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\lloyds.png",
+      "PackagePath": "staticwebassets\\img\\lloyds.png"
+    },
+    {
       "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\momentum.jpg",
       "PackagePath": "staticwebassets\\img\\momentum.jpg"
+    },
+    {
+      "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\new-national.png",
+      "PackagePath": "staticwebassets\\img\\new-national.png"
     },
     {
       "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\nsb logo 1.jpeg",
@@ -123,6 +183,14 @@
     {
       "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\nsb logo.jpeg",
       "PackagePath": "staticwebassets\\img\\nsb logo.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\santam.png",
+      "PackagePath": "staticwebassets\\img\\santam.png"
+    },
+    {
+      "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\unity.png",
+      "PackagePath": "staticwebassets\\img\\unity.png"
     },
     {
       "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\world-habitat-day-close-up-picture-pile-coins-model-house.jpg",

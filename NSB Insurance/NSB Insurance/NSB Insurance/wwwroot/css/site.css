@@ -63,50 +63,22 @@ a, .btn-link {
         content: "An error has occurred."
     }
 
-#teamcards .card {
-    margin-top: 50px;
-    margin-right: 100px;
-    max-width: 25rem;
-}
+
 
 /*Index Cards*/
 #indexCard .card{
     margin-right: 25px;
 }
 
-/*Features Section*/
-
-.features .icon-box {
-    display: flex;
-    align-items: center;
-    padding: 20px;
-    background: #f6f6f6;
-    transition: ease-in-out 0.3s;
+/*Team Cards*/
+#teamcards .card {
+    margin-top: 50px;
+    margin-right: 100px;
+    max-width: 25rem;
 }
 
-    .features .icon-box i {
-        font-size: 32px;
-        padding-right: 10px;
-        line-height: 1;
-    }
-
-    .features .icon-box h3 {
-        font-weight: 700;
-        margin: 0;
-        padding: 0;
-        line-height: 1;
-        font-size: 16px;
-    }
-
-        .features .icon-box h3 a {
-            color: #222222;
-            transition: ease-in-out 0.3s;
-        }
-
-            .features .icon-box h3 a:hover {
-                color: #3498db;
-            }
-
-    .features .icon-box:hover {
-        background: #eef7fc;
-    }
+/*Features Section*/
+#features {
+ padding-left: 10rem;
+ align-content: center;
+}
