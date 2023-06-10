@@ -82,3 +82,7 @@ a, .btn-link {
  padding-left: 10rem;
  align-content: center;
 }
+
+#banner-img{
+    border-radius: 0px 0px 750px 750px;
+}
