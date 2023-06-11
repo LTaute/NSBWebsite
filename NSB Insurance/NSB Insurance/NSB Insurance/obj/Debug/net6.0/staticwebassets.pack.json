@@ -165,6 +165,10 @@
       "PackagePath": "staticwebassets\\img\\index-banner.jpg"
     },
     {
+      "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\index-banner.svg",
+      "PackagePath": "staticwebassets\\img\\index-banner.svg"
+    },
+    {
       "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\insurance-v2.jpg",
       "PackagePath": "staticwebassets\\img\\insurance-v2.jpg"
     },
@@ -199,6 +203,10 @@
     {
       "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\nsb logo.jpeg",
       "PackagePath": "staticwebassets\\img\\nsb logo.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\nsb-png.png",
+      "PackagePath": "staticwebassets\\img\\nsb-png.png"
     },
     {
       "Id": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\santam.png",
