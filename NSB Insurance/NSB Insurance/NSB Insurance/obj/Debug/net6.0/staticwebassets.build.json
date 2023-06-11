@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+HTq/Nmlh/KyKfxTz7zoJy4V+yCSwgxVVVy9GYqUZg4=",
+  "Hash": "bWaoBi5hvtKgplORMzDKQXsfAvm6Lm20TKRtgvMAuI0=",
   "Source": "NSB Insurance",
   "BasePath": "_content/NSB Insurance",
   "Mode": "Default",
@@ -527,6 +527,23 @@
       "OriginalItemSpec": "wwwroot\\img\\index-banner.jpg"
     },
     {
+      "Identity": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\index-banner.svg",
+      "SourceId": "NSB Insurance",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\",
+      "BasePath": "_content/NSB Insurance",
+      "RelativePath": "img/index-banner.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\index-banner.svg"
+    },
+    {
       "Identity": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\Insurance-v1.jpg",
       "SourceId": "NSB Insurance",
       "SourceType": "Discovered",
@@ -797,6 +814,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\nsb logo.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\nsb-png.png",
+      "SourceId": "NSB Insurance",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\",
+      "BasePath": "_content/NSB Insurance",
+      "RelativePath": "img/nsb-png.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\nsb-png.png"
     },
     {
       "Identity": "C:\\Users\\taute\\OneDrive\\Desktop\\Programmeering\\Derek\\NSB\\NSB Insurance\\NSB Insurance\\NSB Insurance\\wwwroot\\img\\Old-Mutual.jpeg",
